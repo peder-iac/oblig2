@@ -159,3 +159,4 @@ faglærer.
 | `config/dev/<x>.tfvars passer ikke i noe lag` | Fila peker på en stack som ikke finnes, eller som ikke står i `LAG` i `kjor.sh` |
 
 Migrert til shared-network og service. Endringsordre 1-3 levert.
+EO 1: PR #12. EO 2: PR #11. EO 3: PR #13.
